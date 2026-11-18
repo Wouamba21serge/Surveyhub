@@ -1,36 +1,10 @@
-  
-
-
-
-
-COURSE; SOFTWARE ARCHITECHTURE
-DIBOT WOUAMBA SERGE CABREL
-SWE LEVEL 300
-
-
-
-
-
- SYSTEM REQUIREMENT SPECIFICATION (SRS) SURVEY HUB
-
-
-
-
-
-
-
-
-
+SYSTEM REQUIREMENT SPECIFICATION (SRS) SURVEY HUB
 
 SUPERVISE BY  Eng. YUVEN Carlson.            
 
-
-
-
-SOFTWARE REQUIREMENTS SPECIFICATION: SurveyHub
 1. Introduction
 SurveyHub is a web application where users create an account, build online surveys (quizzes, checkbox surveys, job interview forms), publish them to get a unique link, and send that link to the people who should answer.
-It is built with the CRUD stack using react postgresql express et node js and deploy on vercel and Figma for the UI Design.
+It is built with the CRUD stack using react postgresql express et node js and deploy on vercel and Figma for the UI Design ().
 
 3. Functional requirements
 1. A visitor shall create an account with full name, email and password.
