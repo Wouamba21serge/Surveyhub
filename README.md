@@ -4,7 +4,7 @@ SUPERVISE BY  Eng. YUVEN Carlson.
 
 1. Introduction
 SurveyHub is a web application where users create an account, build online surveys (quizzes, checkbox surveys, job interview forms), publish them to get a unique link, and send that link to the people who should answer.
-It is built with the CRUD stack using react postgresql express et node js and deploy on vercel and Figma for the UI Design (https://www.figma.com/design/RAS8zXsNANypVlSzlg8cCC/SurveyHub?node-id=3-306&t=Y7fNC4PNmAXBvkmV-1).
+It is built with the CRUD stack using react postgresql express et node js and deploy on vercel and Figma for the UI Design (wireframes, UI design, prototype) https://www.figma.com/design/RAS8zXsNANypVlSzlg8cCC/SurveyHub?node-id=3-306&t=Y7fNC4PNmAXBvkmV-1
 
 3. Functional requirements
 1. A visitor shall create an account with full name, email and password.
