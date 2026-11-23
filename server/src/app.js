@@ -8,7 +8,7 @@ import authRoutes from './routes/auth.routes.js';
 
 const app = express();
 
-app.set('trust proxy', 2); // Vercel and Render are two proxies before the app
+app.set('trust proxy', 2); // Vercel and Render are two proxies before the app 
 app.use(helmet()); // secure HTTP headers
 app.use(cors({ origin: env.clientOrigin, credentials: true })); // only our React app may call the API
 app.use(express.json({ limit: '100kb' })); // reject huge bodies
